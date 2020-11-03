@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">2826536e-d00d-4575-b35e-5562354bf840.mock.pstmn.io</domain>
+        <domain includeSubdomains="true">yippi.oss-cn-hongkong.aliyuncs.com/</domain>
+    </domain-config>
+</network-security-config>
